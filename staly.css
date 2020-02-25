@@ -1,0 +1,81 @@
+.blok1{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    width: 600px;
+    height: 50px;
+    background-color: crimson;
+   
+}
+.blok2{
+    position: absolute;
+    top: 10px;
+    left: 700px;
+    width: 600px;
+    height: 50px;
+    background-color: crimson;
+}
+.blok3{
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    width: 1270px;
+    height: 250px;
+    background-color: deeppink;
+}
+.blok4{
+    position: absolute;
+    top: 350px;
+    left: 30px;
+    width: 400px;
+    height: 150px;
+    background-color: royalblue;
+}
+.blok5{
+    position: absolute;
+    top: 350px;
+    left: 465px;
+    width: 400px;
+    height: 150px;
+    background-color: royalblue;
+}
+.blok6{
+    position: absolute;
+    top: 350px;
+    left: 900px;
+    width: 400px;
+    height: 150px;
+    background-color: royalblue;
+}
+.blok7{
+    position: absolute;
+    top: 530px;
+    left: 30px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(124, 225, 65);
+}
+.blok8{
+    position: absolute;
+    top: 530px;
+    left: 355px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(124, 225, 65);
+}
+.blok9{
+    position: absolute;
+    top: 530px;
+    left: 677px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(124, 225, 65);
+}
+.blok10{
+    position: absolute;
+    top: 530px;
+    left: 999px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(124, 225, 65);
+}
